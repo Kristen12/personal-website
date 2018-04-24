@@ -1,0 +1,95 @@
+body{
+    font-size: 16px;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1000px;
+}
+.row{
+    width: 103%;
+    float: left;
+    margin: 110px -1.5%;
+}
+.single-member{
+    width: 280px;
+    float: left;
+    margin: 30px 2.5%;
+    background-color: #fff;
+    text-align: center;
+    position: relative;
+    max-height: 289px;
+    min-height: 289px;
+    overflow: hidden;
+}
+.member-image{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    transition: 0.4s;
+    z-index: 1;
+}
+.member-image img{
+    max-width: 100%;
+    vertical-align: middle;
+    width: 100%;
+    transition: 0.4s;
+    opacity: 1;
+    height: 100%;
+}
+h3 {
+    font-size: 24px;
+    font-weight: normal;
+    margin: 10px 0 0;
+    text-transform: uppercase;
+    line-height: 35px;
+}
+h5 {
+    font-size: 16px;
+    font-weight: 300;
+    margin: 0 0 15px;
+    line-height: 22px;
+}
+p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 0 30px;
+    margin-bottom: 10px;
+}
+p a{
+    color: #000;
+}
+.more-info{
+    height: 208px;
+    transition: 0.4s;
+    overflow: hidden;
+    position: relative;
+    background-color: #fff;
+}
+.single-member:hover .member-image{
+    bottom: 40%;
+}
+.single-member:hover .member-image img{
+    width: 0;
+    height: 0;
+    transition: 0.4s;
+    opacity: 0;
+}
+
+
+
+
+@media only screen and (max-width: 980px){
+    .row{
+        width: 100%;
+        margin: 110px 0;
+    }
+    .team-members{
+        text-align: center;
+    }
+    .single-member{
+        float: none;
+        display: inline-block;
+        vertical-align: bottom;
+    }
+}

@@ -1,0 +1,38 @@
+#contect-img{
+    display: -webkit-box;
+    width: 800px;
+    padding-top:200px;
+    margin: 0 auto;
+    text-align: center;
+}
+#contect1{
+    height: 100px;
+    -webkit-box-flex: 1;
+    width: 0;
+
+}
+#contect2{
+    height: 100px;
+    -webkit-box-flex: 1;
+    width: 0;
+}
+#contect3{
+    height: 100px;
+    -webkit-box-flex: 1;
+    width: 0;
+}
+#contect4{
+
+    height: 100px;
+    -webkit-box-flex: 1;
+    width: 0;
+}
+
+#contect-img img{
+    width:100px;
+    height:100px;
+    border-radius: 20%;
+}
+#contect-img a{
+    cursor: pointer;
+}

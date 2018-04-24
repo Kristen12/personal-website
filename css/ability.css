@@ -1,0 +1,243 @@
+
+body{
+    /*background:#2f2f2f;*/
+    /*height: 100%;*/
+    /*width: 1000%;*/
+    background-image: url("../img/bg.jpeg");
+
+
+}
+#ability-into{
+    width: 800px;
+    margin: 0 auto;
+}
+#ability-chart{
+    background: rgba(0,0,0,0.5);
+    padding: 100px 100px 20px;
+}
+#div0{
+    background: #eeeeee;
+    display: -webkit-box;
+    margin-bottom: 15px;
+}
+#div1{
+    background: #3c578b;
+    height: 20px;
+    width: 70px;
+    color: #fff;
+    text-align:center;
+    font-size: 14px;
+
+}
+#div2{
+    background: #6078a8;
+    height: 20px;
+    -webkit-box-flex:8.5;
+}
+#div3{
+    background: #eeeeee;
+    height: 20px;
+    -webkit-box-flex: 1.5;
+    color: #8f8f8f;
+    text-align: right;
+    width: 0;
+}
+#div4{
+    background: #eeeeee;
+    display: -webkit-box;
+    margin-bottom: 15px;
+}
+#div5{
+    background: #3c578b;
+    height: 20px;
+    width: 70px;
+    color: #fff;
+    text-align:center;
+    font-size: 14px;
+
+}
+#div6{
+    background: #6078a8;
+    height: 20px;
+    -webkit-box-flex:8.5;
+}
+#div7{
+    background: #eeeeee;
+    height: 20px;
+    -webkit-box-flex:1.5;
+    color: #8f8f8f;
+    text-align: right;
+    width: 0;
+}
+#div8{
+    background: #eeeeee;
+    display: -webkit-box;
+    margin-bottom: 15px;
+}
+#div9{
+    background: #3c578b;
+    height: 20px;
+    width: 70px;
+    color: #fff;
+    text-align:center;
+    font-size: 14px;
+
+}
+#div10{
+    background: #6078a8;
+    height: 20px;
+    -webkit-box-flex:8;
+}
+#div11{
+    background: #eeeeee;
+    height: 20px;
+    -webkit-box-flex: 2;
+    color: #8f8f8f;
+    text-align: right;
+    width: 0;
+}
+#div12{
+    background: #eeeeee;
+    display: -webkit-box;
+    margin-bottom: 15px;
+}
+#div13{
+    background: #3c578b;
+    height: 20px;
+    width: 70px;
+    color: #fff;
+    text-align:center;
+    font-size: 14px;
+
+}
+#div14{
+    background: #6078a8;
+    height: 20px;
+    -webkit-box-flex:8;
+}
+#div15{
+    background: #eeeeee;
+    height: 20px;
+    -webkit-box-flex: 2;
+    color: #8f8f8f;
+    text-align: right;
+    width: 0;
+}
+#div16{
+    background: #eeeeee;
+    display: -webkit-box;
+    margin-bottom: 15px;
+}
+#div17{
+    background: #3c578b;
+    height: 20px;
+    width: 70px;
+    color: #fff;
+    text-align:center;
+    font-size: 14px;
+
+}
+#div18{
+    background: #6078a8;
+    height: 20px;
+    -webkit-box-flex:7;
+}
+#div19{
+    background: #eeeeee;
+    height: 20px;
+    -webkit-box-flex: 3;
+    color: #8f8f8f;
+    text-align: right;
+    width: 0;
+}
+#div20{
+    background: #eeeeee;
+    display: -webkit-box;
+    margin-bottom: 15px;
+}
+#div21{
+    background: #3c578b;
+    height: 20px;
+    width: 70px;
+    color: #fff;
+    text-align:center;
+    font-size: 14px;
+
+}
+#div22{
+    background: #6078a8;
+    height: 20px;
+    -webkit-box-flex:7;
+}
+#div23{
+    background: #eeeeee;
+    height: 20px;
+    -webkit-box-flex: 3;
+    color: #8f8f8f;
+    text-align: right;
+    width: 0;
+}
+#div24{
+    background: #eeeeee;
+    display: -webkit-box;
+    margin-bottom: 15px;
+}
+#div25{
+    background: #3c578b;
+    height: 20px;
+    width: 70px;
+    color: #fff;
+    text-align:center;
+    font-size: 14px;
+}
+#div26{
+    background: #6078a8;
+    height: 20px;
+    -webkit-box-flex:6.5;
+}
+#div27{
+    background: #eeeeee;
+    height: 20px;
+    -webkit-box-flex: 3.5;
+    color: #8f8f8f;
+    text-align: right;
+    width: 0;
+}
+#div28{
+    background: #eeeeee;
+    display: -webkit-box;
+    margin-bottom: 15px;
+}
+#div29{
+    background: #3c578b;
+    height: 20px;
+    width: 70px;
+    color: #fff;
+    text-align:center;
+    font-size: 14px;
+
+}
+#div30{
+    background: #6078a8;
+    height: 20px;
+    -webkit-box-flex:6.3;
+}
+#div31{
+    background: #eeeeee;
+    height: 20px;
+    -webkit-box-flex: 3.7;
+    color: #8f8f8f;
+    text-align: right;
+    width: 0;
+}
+#ability-text{
+    color: #cacaca;
+    padding:20px 100px 60px;
+    background: rgba(0,0,0,0.5);
+    /*margin-bottom: 50px;*/
+    font-size: 16px;
+}
+#ability-text span{
+    font-weight: 500;
+    color:#eeeeee;
+}
