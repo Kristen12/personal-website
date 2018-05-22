@@ -10,10 +10,12 @@ body{
 #ability-into{
     width: 800px;
     margin: 0 auto;
+    background: rgba(0,0,0,0.5);
 }
 #ability-chart{
-    background: rgba(0,0,0,0.5);
+    /*background: rgba(0,0,0,0.5);*/
     padding: 100px 100px 20px;
+    width: 300px;
 }
 #div0{
     background: #eeeeee;
@@ -233,10 +235,13 @@ body{
 #ability-text{
     color: #cacaca;
     padding:20px 100px 60px;
-    background: rgba(0,0,0,0.5);
+    /*background: rgba(0,0,0,0.5);*/
     /*margin-bottom: 50px;*/
     font-size: 16px;
+    line-height: 30px;
+
 }
+
 #ability-text span{
     font-weight: 500;
     color:#eeeeee;

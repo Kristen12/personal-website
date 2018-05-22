@@ -1,33 +1,3 @@
-/**
- * Created by a88 on 2018/1/14.
- */
-/*var oRollImg=document.getElementById('roll-img');
- var oContainerImg = document.getElementById('container-img');
- var oUl = oContainerImg.getElementsByTagName('ul')[0];
- var aLi = oUl.getElementsByTagName('li');
- var oRightBtn = document.getElementById('next');
- var oLeftBtn = document.getElementById('prev');
- oUl.innerHTML += oUl.innerHTML;
- oUl.style.width = (aLi[0].offsetWidth)*6+"px";
- speed=-1002;
- var timer;
- timer=setInterval(function () {
- oUl.style.left = oUl.offsetLeft+speed+"px";
- if(oUl.offsetLeft <= -oUl.offsetWidth/2){
- oUl.style.left = '0px';
- }
- if(oUl.offsetLeft > 0){
- oUl.style.left = -oUl.offsetWidth/2 +"px";
- }
-
- },1800);
- oRightBtn. onclick= function(){
- speed = -1002;
- };
- oLeftBtn. onclick = function(){
- speed = 1002;
- };*/
-/*轮播图*/
 var oContainerImg = document.getElementById('container-img');
 var oUl = oContainerImg.getElementsByTagName('ul')[0];
 var aLi = oUl.getElementsByTagName('li');

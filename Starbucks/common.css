@@ -17,7 +17,7 @@ ul{
     margin-top: 3px;/*将上边框的阴影样式显示出来*/
 }
 #menu{
-    -webkit-box-flex: 5;
+    -webkit-box-flex: 4;
     width: 0;/*当弹性盒模型有内容时*/
     padding-left: 33px;
 }
@@ -47,7 +47,7 @@ ul{
     margin-top:14px;
 }
 #user-info{
-    -webkit-box-flex: 5;
+    -webkit-box-flex: 4;
     width: 0;
     padding-right: 28px;
 }
